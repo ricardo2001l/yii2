@@ -490,7 +490,7 @@ Usando este propuesta, cuando se registre un asset bundle en una vista, se gener
 asset bundle para el grupo al que pertenece el bundle original. Y como resultado, los archivos combinados/comprimidos
 se incluyen en la página, en lugar de los originales.
 
-### Un Example <span id="example"></span>
+### Un Ejemplo <span id="example"></span>
 
 Vamos a usar un ejemplo para explicar la propuesta anterior.
 
